@@ -1,12 +1,15 @@
 * {
   box-sizing: border-box;
   padding: 10px;
+  font-size: large;
+
 
 }
 
 .App {
   text-align: center;
   background-color: beige;
+  
 }
 
 .App-logo {
