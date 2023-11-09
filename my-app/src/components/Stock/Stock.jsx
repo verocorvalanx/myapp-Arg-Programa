@@ -2,7 +2,7 @@
 
 const Stock = () => {
   return (
-    <div>Stock</div>
+    <div>SKU</div>
   )
 }
 
